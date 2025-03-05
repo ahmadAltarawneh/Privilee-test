@@ -5,6 +5,7 @@ This is a brief about the automation code I have write for Privilee and explaina
 
 ## Tests
 You need to run this command to be able to run all the UI tests ```npm run ui-test``` it has been added to the ``package.json`` file
+You need to run this command to be able to run all the API tests ```npm run api-test``` it has been added to the ``package.json`` file
 
 ### 1. Checking the plan price
 This test focus on checking if:
